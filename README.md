@@ -235,6 +235,76 @@ Risk-adjusted decision-making
 
 Alignment between executive oversight and operational monitoring
 
+## Why These Visuals Were Chosen
+
+The visualization architecture was intentionally designed to align with decision hierarchy, cognitive load management, and risk communication principles rather than aesthetic preference.
+
+Each visual was selected based on the type of decision it supports.
+
+### KPI Cards (Executive Summary Layer)
+
+Purpose: Immediate situational awareness.
+
+KPI cards were used to present total exposure, exposure at risk, delinquency ratio, and stress impact because leadership requires rapid signal detection before exploring diagnostics.
+
+Cards reduce cognitive friction and anchor attention to the most material metrics.
+
+### Clustered Column Charts (Band-Level Risk Concentration)
+
+Purpose: Comparative structural analysis.
+
+Clustered columns were selected to:
+
+Compare exposure across credit bands
+
+Visualize concentration imbalance
+
+Illustrate stress-adjusted impact alongside baseline exposure
+
+Side-by-side comparisons make structural vulnerability visible without requiring detailed explanation.
+
+### Stacked or Segmented Bar Charts (Exposure Composition)
+
+Purpose: Proportion analysis.
+
+Stacked visuals were used where understanding composition (performing vs exposure at risk) was more important than absolute totals.
+
+This allows leadership to assess portfolio quality structure at a glance.
+
+### Maturity Exposure Profile (Temporal Sensitivity)
+
+Purpose: Rollover and clustering detection.
+
+Time-based column visuals were chosen to reveal:
+
+Maturity clustering
+
+Near-term concentration
+
+Refinancing sensitivity
+
+Line charts were avoided here because discrete maturity distribution was more analytically meaningful than trend smoothing.
+
+### Parameter-Driven Stress Sensitivity Panel
+
+Purpose: Scenario modeling and fragility testing.
+
+A slicer-controlled stress parameter was implemented to simulate deterioration within the mid-tier credit band.
+
+This transforms the dashboard from descriptive reporting into interactive sensitivity analysis, enabling forward-looking discussion.
+
+### Two-Page Dashboard Architecture
+
+Purpose: Cognitive segmentation.
+
+Instead of consolidating all visuals into a single page:
+
+The Executive Dashboard prioritizes clarity, strategic oversight, and directional risk signals.
+
+The Operational Dashboard provides diagnostic depth and interactive stress testing.
+
+This separation prevents cognitive overload and aligns visual density with stakeholder needs.
+
 ## Visualization & Aesthetic Approach
 
 The dashboards follow an institutional design framework:
