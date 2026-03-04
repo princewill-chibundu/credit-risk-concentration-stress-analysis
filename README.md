@@ -169,6 +169,72 @@ A moderate deterioration in mid-tier credit quality produces measurable incremen
 
 Stress sensitivity modeling confirms that mid-tier performance is the primary channel of portfolio risk amplification.
 
+## What These Dashboards Help Leadership Decide
+
+These dashboards were designed not as reporting tools, but as structured decision-support instruments. They enable leadership to evaluate portfolio structure, risk sensitivity, and capital implications under varying credit conditions.
+
+### 1️ Capital Allocation & Risk Appetite
+
+Is exposure concentration aligned with stated risk appetite?
+
+Does mid-tier credit exposure represent structural vulnerability?
+
+Should portfolio growth be moderated in specific credit bands?
+
+The Executive Dashboard highlights where risk is volume-driven versus tail-risk driven, supporting informed capital allocation decisions.
+
+### 2️ Stress Readiness & Scenario Planning
+
+How sensitive is the portfolio to moderate deterioration in mid-tier credit quality?
+
+What is the incremental exposure impact under a 5–10% stress scenario?
+
+Are current provisions sufficient under modeled deterioration?
+
+The interactive stress parameter allows leadership to simulate deterioration and immediately observe exposure and provisioning implications.
+
+### 3️ Concentration Risk Oversight
+
+Is exposure disproportionately concentrated in a single credit segment?
+
+Does portfolio structure amplify marginal increases in default risk?
+
+Should concentration limits be reviewed?
+
+The Risk Concentration and Band-Level Impact visuals identify structural exposure clusters that may warrant policy review.
+
+### 4️ Rollover & Maturity Risk Monitoring
+
+Are near-term maturities clustered in higher-risk segments?
+
+Does refinancing sensitivity create cyclical vulnerability?
+
+Should maturity ladder adjustments be considered?
+
+The Maturity Exposure Profile highlights temporal clustering and rollover concentration risk.
+
+### 5️ Operational Monitoring Priorities
+
+For operational managers, the dashboards support:
+
+Identification of segments requiring intensified monitoring
+
+Tracking of delinquency and default trend acceleration
+
+Targeted stress surveillance within mid-tier exposures
+
+## Strategic Outcome
+
+Together, the dashboards transform static portfolio metrics into forward-looking risk intelligence, enabling:
+
+Proactive concentration management
+
+Structured stress testing
+
+Risk-adjusted decision-making
+
+Alignment between executive oversight and operational monitoring
+
 ## Visualization & Aesthetic Approach
 
 The dashboards follow an institutional design framework:
