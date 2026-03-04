@@ -1,5 +1,17 @@
-# Credit portfolio risk concentration and stress sensitivity analysis with executive and operational Power BI dashboards.
+# Credit Risk Concentration & Stress Sensitivity Analysis
+### Executive & Operational Power BI Dashboards
 
+## Executive Dashboard
+
+![Executive Dashboard](Images/executive_dashboard.png)
+
+---
+
+## Operational Dashboard
+
+![Operational Dashboard](Images/operational_dashboard.png)
+
+---
 
 ## Project Overview
 
@@ -204,3 +216,9 @@ Applying institutional visual design principles
 Communicating risk clearly to executive audiences
 
 Structuring analytical workflows end-to-end
+
+## Author
+
+Princewill Chibundu  
+Senior Data Analyst | Risk & Financial Analytics  
+Ottawa, Canada
