@@ -353,6 +353,10 @@ Communicating risk clearly to executive audiences
 
 Structuring analytical workflows end-to-end
 
+## Project Documentation
+
+- [DAX Measures Reference](Documentation/DAX_Measures.md)
+
 ## Author
 
 Princewill Chibundu  
